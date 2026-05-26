@@ -1,5 +1,5 @@
-# 📝 Project Reflection & Portfolio Notes
-## RuleBot - Rule-Based AI Chatbot | DecodeLabs Project 1
+# Project Reflection & Portfolio Notes
+## RuleBot - Rule-Based AI Chatbot 
 
 *Complete this file in your own words before submission. This is your evidence of understanding.*
 
