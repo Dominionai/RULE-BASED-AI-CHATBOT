@@ -1,5 +1,5 @@
-# 🏗️ Architecture Deep-Dive
-## RuleBot — Rule-Based AI Chatbot | DecodeLabs Project 1
+#  Architecture Deep-Dive
+## RuleBot - Rule-Based AI Chatbot 
 
 ---
 
@@ -30,7 +30,7 @@ RuleBot is a **White Box** system:
 
 ## The Anti-Pattern We Avoided
 
-### ❌ The If-Elif Ladder (O(n) — Unstable)
+### ❌ The If-Elif Ladder (O(n) - Unstable)
 ```python
 # BAD — High technical debt, O(n) complexity
 if user_input == "hello":
@@ -157,4 +157,4 @@ Dictionary lookup stays flat at O(1) regardless of scale.
 
 ---
 
-*Architecture Briefing | DecodeLabs | Module 01*
+*Architecture Briefing*
