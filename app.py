@@ -9,7 +9,7 @@ import datetime
 from chatbot import sanitize_input, get_response, KNOWLEDGE_BASE
 
 st.set_page_config(
-    page_title="RuleBot — by Egwuatu Chibuike Dominion",
+    page_title="RuleBot - by Egwuatu Chibuike Dominion",
     page_icon="🤖",
     layout="centered",
     initial_sidebar_state="collapsed",
