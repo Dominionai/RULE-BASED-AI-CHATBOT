@@ -112,6 +112,6 @@ This means the next project will introduce **embeddings** and **semantic similar
 
 ---
 
-*Submitted by: ___________________________*
-*Date: ___________________________*
+*Submitted by: Chibuike Dominion*
+*Date: 25/05/2026*
 *DecodeLabs Intern | Batch 2026 | AI Engineering Track*
