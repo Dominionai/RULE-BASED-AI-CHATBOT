@@ -1,5 +1,4 @@
 # =============================================================================
-# DecodeLabs | Batch 2026 | Project 1: Rule-Based AI Chatbot
 # File: chatbot.py — The Logic Engine (Core Brain)
 # Architecture: IPO Model + Dictionary O(1) Lookup
 # =============================================================================
