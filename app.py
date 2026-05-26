@@ -256,7 +256,7 @@ if "messages" not in st.session_state:
     st.session_state.session_start  = datetime.datetime.now().strftime("%H:%M:%S")
     st.session_state.messages.append({
         "role": "bot",
-        "content": "Hello! I'm RuleBot 🤖\nBuilt independently by Egwuatu Chibuike Dominion.\nType 'help' to see what I can do, or just say hello!",
+        "content": "Hello! I'm RuleBot 🤖\nNew session started. How can I help you?\nType 'help' to see what I can do, or just say hello!",
         "rule": "welcome rule",
         "time": datetime.datetime.now().strftime("%H:%M")
     })
