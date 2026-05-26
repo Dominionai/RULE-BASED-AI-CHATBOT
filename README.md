@@ -1,9 +1,8 @@
-# 🤖 RuleBot — Rule-Based AI Chatbot
-### DecodeLabs Industrial Training Kit | Batch 2026 | Project 1
+# RuleBot - Rule-Based AI Chatbot
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 RuleBot is a fully deterministic, rule-based AI chatbot built as **Project 1** of the DecodeLabs AI Engineering Training Kit. It demonstrates mastery of **control flow, decision-making logic**, and the foundational architecture that underpins modern AI guardrail systems.
 
@@ -12,7 +11,7 @@ RuleBot is a fully deterministic, rule-based AI chatbot built as **Project 1** o
 
 ---
 
-## 🎯 Project Goals
+##  Project Goals
 
 | Requirement | Status |
 |---|---|
@@ -27,7 +26,7 @@ RuleBot is a fully deterministic, rule-based AI chatbot built as **Project 1** o
 
 ---
 
-## 🏗️ Architecture: The IPO Model
+##  Architecture: The IPO Model
 
 This chatbot is built on the **IPO (Input → Process → Output)** model as taught in the DecodeLabs briefing:
 
@@ -60,7 +59,7 @@ This chatbot is built on the **IPO (Input → Process → Output)** model as tau
 
 ---
 
-## 💡 Why Dictionary Over If-Elif Ladder?
+##  Why Dictionary Over If-Elif Ladder?
 
 As taught in the DecodeLabs Architecture Briefing:
 
@@ -76,7 +75,7 @@ reply = responses.get(user_input, "I do not understand.")
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 rulebot_project/
@@ -91,7 +90,7 @@ rulebot_project/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### Option 1: Streamlit Web App (Recommended)
 ```bash
@@ -110,7 +109,7 @@ python chatbot.py
 
 ---
 
-## 💬 Supported Commands
+##  Supported Commands
 
 | Category | Commands |
 |---|---|
@@ -127,7 +126,7 @@ python chatbot.py
 
 ---
 
-## 🔑 Key Concepts Demonstrated
+##  Key Concepts Demonstrated
 
 1. **Control Flow** — `while True` infinite loop with `break` exit strategy
 2. **Decision-Making Logic** — Dictionary-based O(1) intent matching
@@ -138,7 +137,7 @@ python chatbot.py
 
 ---
 
-## 🧠 What This Teaches You
+##  What This Teaches You
 
 This project is the foundation before Machine Learning. As DecodeLabs teaches:
 
@@ -151,7 +150,7 @@ Rule-based systems are still used in production today as **AI Guardrails** — f
 
 ---
 
-## 📈 Possible Extensions
+##  Possible Extensions
 
 - Add more intents to the knowledge base
 - Implement nested conditions for context-aware responses
@@ -169,4 +168,4 @@ AI Engineering Track | Project 1 of N
 
 ---
 
-*DecodeLabs Industrial Training Kit — Built following DecodeLabs Batch 2026 curriculum, Greater Lucknow, India*
+*DecodeLabs Industrial Training Kit - Built independently by Egwuatu Chibuike Dominion, Greater Lucknow, India*
